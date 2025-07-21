@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+  #container {
+            padding: 20px;
+            width: 100%;
+            background-color: rgb(166, 163, 158);
+            margin: 0;
+            padding: 10px;
+        }
+        .box{
+            border: 1px solid black;
+            margin-bottom: 10px;
+            padding: 10px;
+			background-color:#fff;
+        }
+        #author{
+            text-align: right;
+            font-style: italic;
+        }
